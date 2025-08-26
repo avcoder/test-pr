@@ -33,6 +33,14 @@ function App() {
       </p>
     </>
   );
+
+
+}
+
+function name(params:type) {
+  hello world
+  return params
+  random code changes
 }
 
 export default App;
